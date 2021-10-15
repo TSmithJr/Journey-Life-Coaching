@@ -1,0 +1,2778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>journey life coaching</title>
+    <link>https://cuboid-strawberry-ksc7.squarespace.com</link>
+    <pubDate>Sat, 27 Feb 2021 05:40:34 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>-1330405414</wp:author_id>
+      <wp:author_login>tsmithvcs@gmail.com</wp:author_login>
+      <wp:author_email>tsmithvcs@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Timmy Smith]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Timmy]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Smith]]></wp:author_last_name>
+    </wp:author>
+    <wp:author>
+      <wp:author_id>238889801</wp:author_id>
+      <wp:author_login>dachonpace@outlook.com</wp:author_login>
+      <wp:author_email>dachonpace@outlook.com</wp:author_email>
+      <wp:author_display_name><![CDATA[DACHON PACE]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[DACHON]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[PACE]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Sun, 02 May 2021 04:25:56 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="6039dc0a4b905435095fad60" id="sections">
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="bright-inverse"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+      
+    
+    
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+     has-background
+    
+    bright-inverse'
+  
+  data-section-id="6084c780dcd9bc08a8c0738f"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;6084c780dcd9bc08a8c0738d&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1619231005207,
+    &quot;updatedOn&quot;: 1619314525938,
+    &quot;starred&quot;: false,
+    &quot;passthrough&quot;: false,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1619231005207,
+    &quot;authorId&quot;: &quot;5feb777252764f3daffe117b&quot;,
+    &quot;systemDataId&quot;: &quot;1619231038308-8UE1UUJSN24W30NL6YTM&quot;,
+    &quot;systemDataVariants&quot;: &quot;2500x1667,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;shutterstock_1420523297.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5743494423791822,
+      &quot;y&quot;: 0.8707482993197279,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;5c7593&quot;,
+      &quot;topRightAverage&quot;: &quot;677d91&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;202907&quot;,
+      &quot;bottomRightAverage&quot;: &quot;2c2712&quot;,
+      &quot;centerAverage&quot;: &quot;c4c6b1&quot;,
+      &quot;suggestedBgColor&quot;: &quot;657a99&quot;
+    },
+    &quot;urlId&quot;: &quot;mo60aol3nnjjvb6ihkln0nxo5gj6t9-25r6m&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;5feb777252764f3daffe117b&quot;,
+      &quot;displayName&quot;: &quot;DACHON PACE&quot;,
+      &quot;firstName&quot;: &quot;DACHON&quot;,
+      &quot;lastName&quot;: &quot;PACE&quot;,
+      &quot;bio&quot;: &quot;&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619231038308-8UE1UUJSN24W30NL6YTM/shutterstock_1420523297.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;originalSize&quot;: &quot;2500x1667&quot;,
+    &quot;recordTypeLabel&quot;: &quot;image&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.62,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 25,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--custom&quot;,
+  &quot;customContentWidth&quot;: 69,
+  &quot;sectionTheme&quot;: &quot;bright-inverse&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;imageEffect&quot;: &quot;none&quot;
+}"
+  data-animation="none"
+   
+  
+     style="min-height: 25vh;" 
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+            
+
+
+  
+<script>
+  "use strict";
+
+  var positionImage = function positionImage(imageEl) {
+    var imageDimensions = imageEl.dataset.imageDimensions.split('x');
+    var originalWidth = imageDimensions[0];
+    var originalHeight = imageDimensions[1];
+    var focalPoint = imageEl.dataset.imageFocalPoint.split(',');
+    var focalPointX = focalPoint[0];
+    var focalPointY = focalPoint[1];
+    var parentNode = imageEl.parentNode;
+
+    var scale = function () {
+      var imageRatio = originalWidth / originalHeight;
+      var parentClientSize = {
+        height: parentNode.clientHeight,
+        width: parentNode.clientWidth
+      };
+      var parentRatio = parentClientSize.width / parentClientSize.height;
+
+      if (imageRatio > parentRatio) {
+        return parentClientSize.height / originalHeight;
+      }
+
+      return parentClientSize.width / originalWidth;
+    }();
+
+    var getRelativeOffset = function getRelativeOffset() {
+      var targetWidth = Math.ceil(originalWidth * scale);
+      var targetHeight = Math.ceil(originalHeight * scale);
+      var parentDimensionWidth = parentNode.offsetWidth;
+      var parentDimensionHeight = parentNode.offsetHeight;
+      var overflowWidth = targetWidth - parentDimensionWidth;
+      var overflowHeight = targetHeight - parentDimensionHeight;
+      var valueX;
+
+      if (overflowWidth === 0) {
+        valueX = focalPointX;
+      } else {
+        valueX = Math.max(Math.min(targetWidth * focalPointX - parentDimensionWidth * 0.5, overflowWidth), 0) / overflowWidth;
+      }
+
+      var valueY;
+
+      if (overflowHeight === 0) {
+        valueY = focalPointY;
+      } else {
+        valueY = Math.max(Math.min(targetHeight * focalPointY - parentDimensionHeight * 0.5, overflowHeight), 0) / overflowHeight;
+      }
+
+      return {
+        valueX: valueX,
+        valueY: valueY
+      };
+    };
+
+    var relativeOffset = getRelativeOffset();
+    var valueX = relativeOffset.valueX;
+    var valueY = relativeOffset.valueY;
+    imageEl.style.objectPosition = "".concat(valueX * 100, "% ").concat(valueY * 100, "%");
+  };
+</script>
+
+
+
+  
+      
+  <img alt=""
+    
+    src="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619231038308-8UE1UUJSN24W30NL6YTM/shutterstock_1420523297.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619231038308-8UE1UUJSN24W30NL6YTM/shutterstock_1420523297.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5743494423791822,0.8707482993197279" alt="shutterstock_1420523297.jpg" 
+    data-load="false"
+    
+       srcset="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619231038308-8UE1UUJSN24W30NL6YTM/shutterstock_1420523297.jpg?format=100w 100w,https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619231038308-8UE1UUJSN24W30NL6YTM/shutterstock_1420523297.jpg?format=300w 300w,https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619231038308-8UE1UUJSN24W30NL6YTM/shutterstock_1420523297.jpg?format=500w 500w,https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619231038308-8UE1UUJSN24W30NL6YTM/shutterstock_1420523297.jpg?format=750w 750w,https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619231038308-8UE1UUJSN24W30NL6YTM/shutterstock_1420523297.jpg?format=1000w 1000w,https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619231038308-8UE1UUJSN24W30NL6YTM/shutterstock_1420523297.jpg?format=1500w 1500w,https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619231038308-8UE1UUJSN24W30NL6YTM/shutterstock_1420523297.jpg?format=2500w 2500w"
+      
+      sizes="(max-width: 799px) 200vw, 100vw" 
+      onLoad="positionImage(this); this.classList.add('loaded');"
+      loading="lazy"
+    
+  />
+  
+
+          
+      
+      <div class="section-background-overlay" style="opacity: 0.62;"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(25vmax / 10); padding-bottom: calc(25vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+       style="width: 69%;" 
+    >
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-6084c780dcd9bc08a8c0738f"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5bd2ef998352977bf9ec"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;">Journey Life Coaching</h1></div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1619314259632_13889"><div class="sqs-block-content">
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium">
+	<a href="/contact" class="sqs-block-button-element--medium sqs-block-button-element" >Free 20 Minute Discovery Session</a>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="bright"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    
+    bright'
+  
+  data-section-id="6083bbf936c10f0a0e39a054"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;bright&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+    
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-6083bbf936c10f0a0e39a054"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-d76844e8fe4604401df0"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-collage
+            combination-animation-none
+            individual-animation-none
+            individual-text-animation-none
+            image-position-right
+            
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              class="
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+                content-fit
+              
+            " style="
+              position: relative;
+              
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              
+            ">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619246802737-F7EGTY21C0MS1D3V8G0S/shutterstock_463417910.jpg" alt="LIFE IS A JOURNEY……the road can have twists and turns, peaks and valleys, narrow roads and wide straightaways. The journey can be hard at times.  Are you overwhelmed with the demands of life? Have you neglected yourself by putting the needs of others before yours? Do you lack the confidence to take the next step?  - I want to be your advocate to help reach your greatest potential, manage life’s demands, practice self-care, to take the next step in your journey! " loading="lazy"/></noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619246802737-F7EGTY21C0MS1D3V8G0S/shutterstock_463417910.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619246802737-F7EGTY21C0MS1D3V8G0S/shutterstock_463417910.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="shutterstock_463417910.jpg"  loading="lazy"/>
+              <div class="image-overlay" style="
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+"></div>
+            </div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  
+><h4 style="white-space:pre-wrap;">LIFE IS A JOURNEY…</h4><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">…the road can have twists and turns, peaks and valleys, narrow roads and wide straightaways. </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">The journey can be hard at times.  Are you overwhelmed with the demands of life? Have you neglected yourself by putting the needs of others before yours? Do you lack the confidence to take the next step? </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  
+><p class="" style="white-space:pre-wrap;">I want to be your advocate to help reach your greatest potential, manage life’s demands, practice self-care, to take the next step in your journey! </p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="bright"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    
+    bright'
+  
+  data-section-id="6083b70af3454164ab93c153"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot;: &quot;bright&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-6083b70af3454164ab93c153"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-8f7a619ae4a3293c8ea7"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">jour·ney /ˈjərnē/: </h2><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large">an act of traveling from one place to another</p></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-a8fbddd6b14238ce30d2"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-40c77633ec17fb5e4a4f"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-collage
+            combination-animation-none
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              class="
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+                content-fit
+              
+            " style="
+              position: relative;
+              
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              
+            ">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619245463956-G4TZMWBHPOQLTF0WLB0Y/shutterstock_1664717059.jpg" alt="HERE TO HELP YOU THRIVE… - …and to become the best version of yourself. As your life coach, we co-create actionable steps with accountability that help you reach your next destination. I am here to listen and explore with you, without judging the direction YOU choose for your life. You are whole, creative, resourceful and capable of forging your own way. My role as a life coach is to help you see the possibilities you may not see for yourself and help you create a roadmap for success." loading="lazy"/></noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619245463956-G4TZMWBHPOQLTF0WLB0Y/shutterstock_1664717059.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619245463956-G4TZMWBHPOQLTF0WLB0Y/shutterstock_1664717059.jpg" data-image-dimensions="2500x1669" data-image-focal-point="0.5,0.5" alt="shutterstock_1664717059.jpg"  loading="lazy"/>
+              <div class="image-overlay" style="
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+"></div>
+            </div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  
+><h4 style="white-space:pre-wrap;">HERE TO HELP YOU THRIVE…</h4></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  
+><p class="" style="white-space:pre-wrap;">…and to become the best version of yourself. As your life coach, we co-create actionable steps with accountability that help you reach your next destination. </p><p class="" style="white-space:pre-wrap;">I am here to listen and explore with you, without judging the direction YOU choose for your life. </p><p class="" style="white-space:pre-wrap;">You are whole, creative, resourceful and capable of forging your own way. My role as a life coach is to help you see the possibilities you may not see for yourself and help you create a roadmap for success.</p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    
+    light'
+  
+  data-section-id="6039dc0a4b905435095fad69"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 50,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+    
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-6039dc0a4b905435095fad69"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-b3b34ae8701e1a1501fb"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">“You truly are the best coach I’ve ever experienced…I LOVE your reflective listening, which makes me feel heard and understood…”</h3><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large">—Dawn</p></div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="white"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+     has-background
+    
+    white'
+  
+  data-section-id="6039dc0a4b905435095fad6b"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;6084f27b4ef683207d7a577d&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1619325563502,
+    &quot;updatedOn&quot;: 1619325590437,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1619325563502,
+    &quot;authorId&quot;: &quot;5feb777252764f3daffe117b&quot;,
+    &quot;systemDataId&quot;: &quot;1619325580316-H6GTMXMLGJLH5FB1SVX7&quot;,
+    &quot;systemDataVariants&quot;: &quot;2500x1667,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;shutterstock_511139071.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;fec35b&quot;,
+      &quot;topRightAverage&quot;: &quot;fee052&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;f3be81&quot;,
+      &quot;bottomRightAverage&quot;: &quot;de875d&quot;,
+      &quot;centerAverage&quot;: &quot;f76719&quot;,
+      &quot;suggestedBgColor&quot;: &quot;ffe66f&quot;
+    },
+    &quot;urlId&quot;: &quot;bxl5zekeqbch87tjfh1dlsn8wftjvh&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;5feb777252764f3daffe117b&quot;,
+      &quot;displayName&quot;: &quot;DACHON PACE&quot;,
+      &quot;firstName&quot;: &quot;DACHON&quot;,
+      &quot;lastName&quot;: &quot;PACE&quot;,
+      &quot;bio&quot;: &quot;&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619325580316-H6GTMXMLGJLH5FB1SVX7/shutterstock_511139071.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;originalSize&quot;: &quot;2500x1667&quot;,
+    &quot;recordTypeLabel&quot;: &quot;image&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 80,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--medium&quot;,
+  &quot;sectionTheme&quot;: &quot;white&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+    
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+
+
+
+
+    
+  <img alt=""
+    
+    src="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619325580316-H6GTMXMLGJLH5FB1SVX7/shutterstock_511139071.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619325580316-H6GTMXMLGJLH5FB1SVX7/shutterstock_511139071.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="shutterstock_511139071.jpg" 
+    data-load="false"
+    
+  />
+
+      
+      <div class="section-background-overlay" style="opacity: 0.15;"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-6039dc0a4b905435095fad6b"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-cb4e29b775b69e7597b8"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;">Schedule a free 20 minute session and see if a new beginning is right for you.</h1><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large">No commitment. No pressure No obligation.</p></div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-446072ea0e36d330d190"><div class="sqs-block-content">
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium">
+	<a href="/contact" class="sqs-block-button-element--medium sqs-block-button-element" >Free 20 Minute Discovery Session</a>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/about</link>
+      <title>About Me</title>
+      <pubDate>Tue, 18 May 2021 19:27:05 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="6039ee102d914d0b8c38a7c8" id="sections">
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="bright"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    
+    bright'
+  
+  data-section-id="6084df98b2b2a503f04f89ee"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot;: &quot;bright&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-6084df98b2b2a503f04f89ee"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-41a25c8b8971dc265885"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-overlap
+            combination-animation-none
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              class="
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+                content-fit
+              
+            " style="
+              position: relative;
+              
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              
+            ">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1620934176456-5YVPZ4BBF7G5BWBP7WF3/PACE+5.jpg" alt=" - I am Da’Chon Pace, founder of Journey Life Coaching. I want to tell you a little about my journey and how I came to be a life coach. In my teens and early 20’s I was shy and lacked confidence. I struggled with who I was as a young woman. One book, written by a life coach, changed my life. My confidence blossomed and I began to see life in a different perspective. My desire to help others guided me to work and volunteer as a trainer, teacher, mentor and coach at various times over the past 25 years. " loading="lazy"/></noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1620934176456-5YVPZ4BBF7G5BWBP7WF3/PACE+5.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1620934176456-5YVPZ4BBF7G5BWBP7WF3/PACE+5.jpg" data-image-dimensions="1280x720" data-image-focal-point="0.5,0.5" alt="PACE 5.jpg"  loading="lazy"/>
+              <div class="image-overlay" style="
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+"></div>
+            </div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  
+><p class="" style="white-space:pre-wrap;">I am Da’Chon Pace, founder of Journey Life Coaching. I want to tell you a little about my journey and how I came to be a life coach. In my teens and early 20’s I was shy and lacked confidence. I struggled with who I was as a young woman. One book, written by a life coach, changed my life. My confidence blossomed and I began to see life in a different perspective. My desire to help others guided me to work and volunteer as a trainer, teacher, mentor and coach at various times over the past 25 years. </p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="bright"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--left
+    vertical-alignment--top
+    
+    
+    bright'
+  
+  data-section-id="609d7ef050931f78aa4e19f4"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--left&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--top&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot;: &quot;bright&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+    
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-609d7ef050931f78aa4e19f4"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-bfecff2484c797e4d588"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">I pursued and earned my B.A. in Psychology and M.A. in Human Behavior. I hold an ACC credential through the International Coaching Federation (ICF), an internationally recognized organization that holds Coaches to an ethical high standard. </p><p class="" style="white-space:pre-wrap;">I’ve had the pleasure of coaching college professors, community leaders, business professionals, students, homemakers and more. I’m an instructor at an ICF accredited academy teaching students to be future life coaches. I believe that growth is not bound by age! In our journeys of life, we have the ability to gain the confidence, to be creative, be bold, to dream bigger, to take the next step! I hope you will let me continue to use my passion for people and co-journey with you down a path of discovery, learning, and growth. &nbsp;</p></div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="light-bold"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    
+    light-bold'
+  
+  data-section-id="6039ee102d914d0b8c38a7d3"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--medium&quot;,
+  &quot;sectionTheme&quot;: &quot;light-bold&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(vmax / 10); padding-bottom: calc(vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-6039ee102d914d0b8c38a7d3"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-9589c9335798b1d35a43"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;"><strong>explore with me</strong></h2></div></div><div class="row sqs-row"><div class="col sqs-col-0 span-0"></div><div class="col sqs-col-12 span-12"><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-8c92ef52ee7be168e8d2"><div class="sqs-block-content">
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="large">
+	<a href="/contact" class="sqs-block-button-element--large sqs-block-button-element" >Free 20 Minute Discovery Session</a>
+</div>
+</div></div></div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="light-bold"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+     has-background
+    
+    light-bold'
+  
+  data-section-id="6039ee102d914d0b8c38a7d1"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;608255d9c862690e3e4d871d&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1619154393141,
+    &quot;updatedOn&quot;: 1619154416801,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1619154393141,
+    &quot;authorId&quot;: &quot;5feb777252764f3daffe117b&quot;,
+    &quot;systemDataId&quot;: &quot;1619154409562-1XUBXN3K8GBSCTA1135J&quot;,
+    &quot;systemDataVariants&quot;: &quot;2500x1667,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;shutterstock_289831070.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;c39d6b&quot;,
+      &quot;topRightAverage&quot;: &quot;f2f3ef&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;9d6351&quot;,
+      &quot;bottomRightAverage&quot;: &quot;8f8787&quot;,
+      &quot;centerAverage&quot;: &quot;e6474a&quot;,
+      &quot;suggestedBgColor&quot;: &quot;a67f46&quot;
+    },
+    &quot;urlId&quot;: &quot;fx421ih1n57gs97qr2cfs9psi8y1lj&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;5feb777252764f3daffe117b&quot;,
+      &quot;displayName&quot;: &quot;DACHON PACE&quot;,
+      &quot;firstName&quot;: &quot;DACHON&quot;,
+      &quot;lastName&quot;: &quot;PACE&quot;,
+      &quot;bio&quot;: &quot;&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619154409562-1XUBXN3K8GBSCTA1135J/shutterstock_289831070.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;originalSize&quot;: &quot;2500x1667&quot;,
+    &quot;recordTypeLabel&quot;: &quot;image&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.63,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--medium&quot;,
+  &quot;sectionTheme&quot;: &quot;light-bold&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+
+
+
+
+    
+  <img alt=""
+    
+    src="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619154409562-1XUBXN3K8GBSCTA1135J/shutterstock_289831070.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619154409562-1XUBXN3K8GBSCTA1135J/shutterstock_289831070.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="shutterstock_289831070.jpg" 
+    data-load="false"
+    
+  />
+
+      
+      <div class="section-background-overlay" style="opacity: 0.63;"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-6039ee102d914d0b8c38a7d1"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-25faebc610f6313fa9fe"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;"><strong>Walking alongside another can be just enough to encourage them to take another step.</strong></h2></div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>about</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/about-1</link>
+      <title>About Life Coaching</title>
+      <pubDate>Tue, 04 May 2021 19:29:16 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="603b2af72f41aa1a09bce088" id="sections">
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="bright-inverse"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--narrow
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    
+    bright-inverse'
+  
+  data-section-id="6084ccda2cc786003924bbf5"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--narrow&quot;,
+  &quot;sectionTheme&quot;: &quot;bright-inverse&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-6084ccda2cc786003924bbf5"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-2a6e9453f95e0d3abd93"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">Coaching FAQs</h2><h4 style="white-space:pre-wrap;">What is Life Coaching?</h4><p class="" style="white-space:pre-wrap;">When is the last time you had a TRUE conversation? One where you could speak with out holding back, be free to express yourself with out fear of judgement, and to be heard, truly heard. That’s what life coaching is. ICF Life Coaches are professionally trained to meet you where you are, assist you defining what’s next, and help you build a bridge between that gap. By asking the right questions, we aid our clients in moving forward to attain a greater and more fulfilling life. </p><h4 style="white-space:pre-wrap;">What can you expect from me as your coach?</h4><p class="" style="white-space:pre-wrap;">Life coaching differs from consulting, mentoring and therapy in that we do not direct or lead the clients we work with. Life Coaches let you be the champion of your own destiny through the creative partnership we form. You can expect powerful questioning to gain clarity, exploration of your vision and goals and challenges to help see things in a new perspectives. I am here to encourage you to the best version of yourself through self-discovery, growth and accountability.</p><h4 style="white-space:pre-wrap;">What is expected of you as a client?</h4><p class="" style="white-space:pre-wrap;">Be your authentic self! As your coach, I will not bring  judgement or bias to our coaching relationship, giving you the freedom to be open in our sessions. Bring your willingness to change and be open to discover new things about yourself and your situation. Journey Life Coaching creates a safe space to facilitate your growth and change. You will be asked to follow through on actionable items between coaching sessions. </p></div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="light-bold"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    
+    light-bold'
+  
+  data-section-id="6085f4139618be5fc2839a3e"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 85,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot;: &quot;light-bold&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+    
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-6085f4139618be5fc2839a3e"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-59e1b3dad2d940c7f6ff"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">Have more questions?</h2><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large">Don’t hesitate to reach out to us. Journey Life Coaching is here to help!</p></div></div><div class="sqs-block form-block sqs-block-form" data-block-type="9" id="block-e627319fff78a62c38db"><div class="sqs-block-content">
+
+
+
+
+  <div data-animation-role="button" class="lightbox-handle-wrapper lightbox-handle-wrapper--align-center">
+    <button class="lightbox-handle sqs-system-button sqs-editable-button">
+      
+        Contact
+      
+    </button>
+  </div>
+
+
+<div class="form-wrapper hidden"
+  
+>
+  <div class="form-title">Contact Journey</div>
+  <div class="form-inner-wrapper">
+    <form
+       data-form-id="6085f4139618be5fc2839a3c"
+       data-success-redirect=""
+       autocomplete="on"
+       
+       method="POST"
+       action="https://cuboid-strawberry-ksc7.squarespace.com"
+       novalidate
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '6085f4139618be5fc2839a3c',
+      collectionId: '603b2af72f41aa1a09bce089',
+      objectName: 'page-section-6085f4139618be5fc2839a3e'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_1_1561472248937_6315" class="form-item fields name required">
+                
+            <legend class="title">
+              Name
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                
+                <div class="field first-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="fname"
+                        x-autocompletetype="given-name"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="First"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">First Name</span>
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="lname"
+                        x-autocompletetype="surname"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="Last"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">Last Name</span>
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1561472248937_6316" class="form-item field email required">
+                
+            <label class="title" for="email-yui_3_17_2_1_1561472248937_6316-field">
+              Email
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element"
+                    id="email-yui_3_17_2_1_1561472248937_6316-field"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    spellcheck="false"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+              <div id="text-yui_3_17_2_1_1561472248937_6317" class="form-item field text required">
+                
+            <label class="title" for="text-yui_3_17_2_1_1561472248937_6317-field">
+              Subject
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element text"
+                    type="text"
+                    id="text-yui_3_17_2_1_1561472248937_6317-field"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_1_1561472248937_6318" class="form-item field textarea required">
+                
+            <label class="title" for="textarea-yui_3_17_2_1_1561472248937_6318-field">
+              Message
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <textarea
+                    class="field-element "
+                    id="textarea-yui_3_17_2_1_1561472248937_6318-field"
+                    
+                    aria-required="true"
+                ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div 
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-center
+          
+        "
+      >
+        <input class="button sqs-system-button sqs-editable-button" type="submit" value="Send"/>
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text">Thank you!</div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>about-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/contact</link>
+      <title>Contact</title>
+      <pubDate>Fri, 30 Apr 2021 00:13:35 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="603dc949cd7a4c48e894a3cf" id="sections">
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    
+    '
+  
+  data-section-id="603dc949cd7a4c48e894a3d2"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-603dc949cd7a4c48e894a3d2"><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1614663725271_6234"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class=""><strong>Free 20 Minute Discovery Session</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><strong>No Commitment. No Obligations. No Pressure.</strong></p></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1614663725271_5670"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-59e5651e013585640875"><div class="sqs-block-content"><h2 style="white-space:pre-wrap;">Contact us, and begin a new adventure. </h2><p class="" style="white-space:pre-wrap;">dachonpace@outlook.com<br>916.970.9550</p></div></div><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-dcfe4d6ad1dac2e4dc09"><div class="sqs-block-content">
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-left social-icons-color- social-icons-size-small social-icons-style-regular " >
+  <nav class="sqs-svg-icon--list">
+    <a href="http://instagram.com/squarespace" target="_blank" class="sqs-svg-icon--wrapper instagram-unauth" aria-label="">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#instagram-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#instagram-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="http://twitter.com/squarespace" target="_blank" class="sqs-svg-icon--wrapper twitter-unauth" aria-label="">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#twitter-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#twitter-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="http://pinterest.com/squarespace" target="_blank" class="sqs-svg-icon--wrapper pinterest-unauth" aria-label="">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#pinterest-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#pinterest-unauth-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block form-block sqs-block-form" data-block-type="9" id="block-ea80688a1fada8e12da7"><div class="sqs-block-content">
+
+
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper">
+    <form
+       data-form-id="603dc949cd7a4c48e894a3ce"
+       data-success-redirect=""
+       autocomplete="on"
+       
+       method="POST"
+       action="https://cuboid-strawberry-ksc7.squarespace.com"
+       novalidate
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '603dc949cd7a4c48e894a3ce',
+      collectionId: '603dc949cd7a4c48e894a3d0',
+      objectName: 'page-section-603dc949cd7a4c48e894a3d2'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_1_1553888888520_3744" class="form-item fields name required">
+                
+            <legend class="title">
+              Name
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                
+                <div class="field first-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="fname"
+                        x-autocompletetype="given-name"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="First"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">First Name</span>
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="lname"
+                        x-autocompletetype="surname"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="Last"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">Last Name</span>
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1553888888520_3745" class="form-item field email required">
+                
+            <label class="title" for="email-yui_3_17_2_1_1553888888520_3745-field">
+              Email
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element"
+                    id="email-yui_3_17_2_1_1553888888520_3745-field"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    spellcheck="false"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_1_1553888888520_3747" class="form-item field textarea required">
+                
+            <label class="title" for="textarea-yui_3_17_2_1_1553888888520_3747-field">
+              Message
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <textarea
+                    class="field-element "
+                    id="textarea-yui_3_17_2_1_1553888888520_3747-field"
+                    
+                    aria-required="true"
+                ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div data-animation-role="button"
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-left
+          
+        "
+      >
+        <input class="button sqs-system-button sqs-editable-button" type="submit" value="Send"/>
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text"><p class="" style="white-space:pre-wrap;">Thank you, we’ll be in touch with you within 48 hours. </p></div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+     has-background
+    
+    light'
+  
+  data-section-id="603dcb0732c6ef79430b9b92"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;6084ee406252291f4b124462&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1619324480987,
+    &quot;updatedOn&quot;: 1619324484983,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1619324480987,
+    &quot;authorId&quot;: &quot;5feb777252764f3daffe117b&quot;,
+    &quot;systemDataId&quot;: &quot;1619324481032-QJPRH9ZAG58PCLSWHIEC&quot;,
+    &quot;systemDataVariants&quot;: &quot;2500x1660,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;unsplash-image-aSFZKeZiHPc.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;faffff&quot;,
+      &quot;topRightAverage&quot;: &quot;fbfffe&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;332619&quot;,
+      &quot;bottomRightAverage&quot;: &quot;50351f&quot;,
+      &quot;centerAverage&quot;: &quot;f1e6d8&quot;,
+      &quot;suggestedBgColor&quot;: &quot;f8ffff&quot;
+    },
+    &quot;urlId&quot;: &quot;7z06mdfn966h59tun3ozekxyu7azbg&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;5feb777252764f3daffe117b&quot;,
+      &quot;displayName&quot;: &quot;DACHON PACE&quot;,
+      &quot;firstName&quot;: &quot;DACHON&quot;,
+      &quot;lastName&quot;: &quot;PACE&quot;,
+      &quot;bio&quot;: &quot;&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619324481032-QJPRH9ZAG58PCLSWHIEC/unsplash-image-aSFZKeZiHPc.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;2500x1660&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 85,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--medium&quot;,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+    
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+
+
+
+
+    
+  <img alt=""
+    
+    src="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619324481032-QJPRH9ZAG58PCLSWHIEC/unsplash-image-aSFZKeZiHPc.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619324481032-QJPRH9ZAG58PCLSWHIEC/unsplash-image-aSFZKeZiHPc.jpg" data-image-dimensions="2500x1660" data-image-focal-point="0.5,0.5" alt="unsplash-image-aSFZKeZiHPc.jpg" 
+    data-load="false"
+    
+  />
+
+      
+      <div class="section-background-overlay" style="opacity: 0.15;"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-603dcb0732c6ef79430b9b92"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1619146833689_23350"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">Your JOURNEY starts now</h3></div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>contact</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/work-with-me</link>
+      <title>Work With Me</title>
+      <pubDate>Thu, 13 May 2021 18:20:55 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="60406c593dbe4c300adf9fe2" id="sections">
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="light-bold"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    
+    light-bold'
+  
+  data-section-id="6084ae1dfe6a362c5962573f"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot;: &quot;light-bold&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-6084ae1dfe6a362c5962573f"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-6989ad2cd4d61595a318"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">EVERY JOURNEY STARTS WITH A SINGLE STEP, TAKE YOURS TODAY!</h2></div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="66.75191815856778" data-block-type="5" id="block-d7e27e1943fae0af17ec"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:100%; 
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+"
+        >
+          
+        
+        
+
+        
+          
+            <button
+                class="
+                  sqs-block-image-button
+                  lightbox
+                  
+          
+        
+                "
+                data-description=""
+                data-lightbox-theme="light"
+            >
+              <span class="v6-visually-hidden">View fullsize</span>
+              
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:66.75191497802734%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619308721329-F4YHSA15JYRTMA68MVNR/shutterstock_766033678.jpg" alt="shutterstock_766033678.jpg" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619308721329-F4YHSA15JYRTMA68MVNR/shutterstock_766033678.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619308721329-F4YHSA15JYRTMA68MVNR/shutterstock_766033678.jpg" data-image-dimensions="3840x2160" data-image-focal-point="0.5,0.5" alt="shutterstock_766033678.jpg" data-load="false" data-image-id="6084b74ee483a363d97f336d" data-type="image" />
+            </div>
+          </div>
+        
+            </button>
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-fbeb66a8a61dd2aafc8b"><div class="sqs-block-content"><h4 style="text-align:center;white-space:pre-wrap;">Individual Coaching</h4><p class="" style="white-space:pre-wrap;"><strong><em>You are the only focus in our individual coaching sessions.</em></strong>  Our coaching sessions will help you clarify your thoughts and actions, reduce stress and anxiety, and create actionable steps. I provide accountability and tools that motivate you to move toward your next destination.</p><p class="" style="white-space:pre-wrap;">Journey Life Coaching is passionate about personal growth and development. We believe that as you tap into your potential, not only will you begin to grow and develop, you will thrive! Whether you want to move upward to the next level in your professional or personal life, as your Coach I am here to help you roadmap your path to a healthy, satisfying, successful life. Together we will co-create goals to:</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Learn new things</p></li><li><p class="" style="white-space:pre-wrap;">Gain competence</p></li><li><p class="" style="white-space:pre-wrap;">Become proactive</p></li><li><p class="" style="white-space:pre-wrap;">Cultivate innate abilities</p></li><li><p class="" style="white-space:pre-wrap;">Improve time management</p></li><li><p class="" style="white-space:pre-wrap;">Develop a perseverance mindset</p></li></ul><p class="" style="white-space:pre-wrap;"> Life coaching addresses many issues we all deal with during our life’s journey.  Whether your feeling stuck and unsatisfied, seeking your life’s purpose, or need to sort through ‘mental clutter’, coaching is right for you. </p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="66.49616368286445" data-block-type="5" id="block-fcd16fc540a4927b9890"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:5000px; 
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+"
+        >
+          
+        
+        
+
+        
+          
+            <button
+                class="
+                  sqs-block-image-button
+                  lightbox
+                  
+          
+        
+                "
+                data-description=""
+                data-lightbox-theme="dark"
+            >
+              <span class="v6-visually-hidden">View fullsize</span>
+              
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:66.49616241455078%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619149873545-EIM7GW3SKFH23W9Q7PIN/shutterstock_1022465209.jpg" alt="shutterstock_1022465209.jpg" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619149873545-EIM7GW3SKFH23W9Q7PIN/shutterstock_1022465209.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619149873545-EIM7GW3SKFH23W9Q7PIN/shutterstock_1022465209.jpg" data-image-dimensions="5000x3076" data-image-focal-point="0.5,0.5" alt="shutterstock_1022465209.jpg" data-load="false" data-image-id="6084b71024623d77653dad9a" data-type="image" />
+            </div>
+          </div>
+        
+            </button>
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-f51107be7cc76ed07b75"><div class="sqs-block-content"><h4 style="text-align:center;white-space:pre-wrap;">Self-Confidence &amp; Empowerment Coaching</h4><p class="" style="white-space:pre-wrap;"><strong><em>In coaching, we call the thieves of confidence and power “saboteurs’ and '“limiting beliefs’</em></strong>. We often harbor negative beliefs that we don’t recognize or know that we have. The term saboteurs and limiting beliefs refer to negative convictions held as truths that limit your thinking, behaviors, feelings and ultimately your life. They can be so strong that they hinder your life’s direction through self-judgement, self-doubt and self-sabotage.  These false ideals restrict your:</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Self-worth</p></li></ul><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Power</p></li><li><p class="" style="white-space:pre-wrap;">Growth</p></li><li><p class="" style="white-space:pre-wrap;">Voice</p></li><li><p class="" style="white-space:pre-wrap;">Self-esteem</p></li></ul><p class="" style="white-space:pre-wrap;">During our Self-Confidence and Empowerment Coaching sessions, we identify and challenge the roadblocks of saboteurs and limiting beliefs you have about yourself and others. Our one-on-one sessions will focus on building your confidence and self-esteem, empowering your individual voice and creating a strong self-image. We co-journey together to eliminate self-sabotaging barriers and  replace limiting beliefs with sound, new beliefs about yourself and others.</p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-5b62569c0955f708be34"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2500px; 
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:66.68000030517578%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619309242630-244BYIQFWN296JRMMYSK/unsplash-image-Zyx1bK9mqmA.jpg" alt="unsplash-image-Zyx1bK9mqmA.jpg" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619309242630-244BYIQFWN296JRMMYSK/unsplash-image-Zyx1bK9mqmA.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6039db5225c288203140efdf/1619309242630-244BYIQFWN296JRMMYSK/unsplash-image-Zyx1bK9mqmA.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="unsplash-image-Zyx1bK9mqmA.jpg" data-load="false" data-image-id="6084b2ba5534d9709051d4bc" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-d94e6f8a0c7015c6f21a"><div class="sqs-block-content"><h4 style="text-align:center;white-space:pre-wrap;">Group Coaching</h4><p class="" style="white-space:pre-wrap;"><strong><em>Sometimes in life we find that need to journey with others.</em></strong> Group coaching brings together small, intimate groups of people in a conversational space. These groups are centered on subjects such as goal planning, building self-esteem, accountability, self-care, and more. In these group sessions, the group members thoughts, feelings and actions are the focus, not the coaches. </p><p class="" style="white-space:pre-wrap;"><strong>Benefits of group coaching include: </strong></p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Group support and accountability</p></li><li><p class="" style="white-space:pre-wrap;">Renewed inspiration, creativity and growth</p></li><li><p class="" style="white-space:pre-wrap;">Connect with new people and build new relationships</p></li><li><p class="" style="white-space:pre-wrap;">Learning from fellow peers</p></li><li><p class="" style="white-space:pre-wrap;">Interact with others who may share the same or different views</p></li></ul><p class="" style="white-space:pre-wrap;">All group coaching sessions are held in a safe, confidential environment where you can be your true authentic self without judgement or bias. Respect for others is held as a high priority within group coaching sessions.</p></div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="1.7713365539452497" data-block-type="21" id="block-4d99dca7064ec8e4b368"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-9586a2a55e951585a36b"><div class="sqs-block-content">
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="large">
+	<a href="/contact" class="sqs-block-button-element--large sqs-block-button-element" >Free 20 Minute Discovery Session</a>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>work-with-me</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
